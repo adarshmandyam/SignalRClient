@@ -1,0 +1,4 @@
+C:\a\edgeupdatemanagement\src\EdgeDevicesUpdateManagement\SignalRClient\obj\Debug\SignalRClient.esproj.SuggestedBindingRedirects.cache
+C:\a\edgeupdatemanagement\src\EdgeDevicesUpdateManagement\SignalRClient\obj\Debug\SignalRClient.esproj.CoreCompileInputs.cache
+C:\a\edgeupdatemanagement\src\SignalRClient\obj\Debug\SignalRClient.esproj.SuggestedBindingRedirects.cache
+C:\a\edgeupdatemanagement\src\SignalRClient\obj\Debug\SignalRClient.esproj.CoreCompileInputs.cache
